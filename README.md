@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varun
-- 👀 I’m interested in programing...
-- 🌱 I’m currently learning programing in java
+- 👀 Full Stack Developer .
+- 🌱 java Learner.
 - 📫 contect me on 📧 varunkapadiya03@gmail.com
 
 <!---
