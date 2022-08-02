@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @varun
-- 👀 Full Stack Developer .
 - 🌱 java Learner.
 - 📫 contect me on 📧 varunkapadiya03@gmail.com
 
