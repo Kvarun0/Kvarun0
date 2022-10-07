@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varun
 - 🌱 java Learner.
-- 📫 contect me on 📧 varunkapadiya03@gmail.com
+- 📫 contect me on 📧 varunkapadiya1@gmail.com
 
 <!---
 Kvarun0/Kvarun0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
